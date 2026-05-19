@@ -8,4 +8,10 @@ Allow: /
 User-agent: Baiduspider-render
 Allow: /
 
+User-agent: Sogou web spider
+Allow: /
+
+User-agent: Sogou inst spider
+Allow: /
+
 Sitemap: https://xcs.pyzgame.cn/sitemap.xml
