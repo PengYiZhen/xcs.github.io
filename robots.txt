@@ -1,0 +1,11 @@
+# https://xcs.pyzgame.cn/
+User-agent: *
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: Baiduspider-render
+Allow: /
+
+Sitemap: https://xcs.pyzgame.cn/sitemap.xml
