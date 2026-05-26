@@ -2,361 +2,361 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://xcs.pyzgame.cn/</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://xcs.pyzgame.cn/changelog/</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xcs.pyzgame.cn/en/</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xcs.pyzgame.cn/en/changelog/</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xcs.pyzgame.cn/en/engine/cocos-creator.html</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xcs.pyzgame.cn/en/engine/godot.html</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xcs.pyzgame.cn/en/engine/overview.html</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xcs.pyzgame.cn/en/engine/unity.html</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xcs.pyzgame.cn/en/faq/common-issues.html</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xcs.pyzgame.cn/en/guide/configuration.html</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xcs.pyzgame.cn/en/guide/getting-started.html</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xcs.pyzgame.cn/en/guide/installation.html</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xcs.pyzgame.cn/en/guide/jwt-room-auth.html</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xcs.pyzgame.cn/en/guide/project-structure.html</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xcs.pyzgame.cn/en/ops/deployment.html</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xcs.pyzgame.cn/en/ops/load-testing.html</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xcs.pyzgame.cn/en/reference/api.html</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xcs.pyzgame.cn/en/reference/minigame/douyin.html</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xcs.pyzgame.cn/en/reference/minigame/weixin.html</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xcs.pyzgame.cn/en/reference/protocol.html</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xcs.pyzgame.cn/en/rooms/auth.html</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xcs.pyzgame.cn/en/rooms/frame-sync-game-room.html</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xcs.pyzgame.cn/en/rooms/lifecycle.html</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xcs.pyzgame.cn/en/rooms/matchmaking.html</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xcs.pyzgame.cn/en/rooms/messages.html</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xcs.pyzgame.cn/en/rooms/overview.html</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xcs.pyzgame.cn/en/rooms/state.html</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xcs.pyzgame.cn/en/scenarios/fighting-game-frame-sync.html</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xcs.pyzgame.cn/en/scenarios/multi-scale-matchmaking.html</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xcs.pyzgame.cn/en/scenarios/overview.html</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xcs.pyzgame.cn/en/scenarios/party-dungeon-team-chat.html</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xcs.pyzgame.cn/engine/cocos-creator.html</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xcs.pyzgame.cn/engine/godot.html</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xcs.pyzgame.cn/engine/overview.html</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xcs.pyzgame.cn/engine/unity.html</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xcs.pyzgame.cn/faq/common-issues.html</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xcs.pyzgame.cn/guide/configuration.html</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xcs.pyzgame.cn/guide/getting-started.html</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xcs.pyzgame.cn/guide/installation.html</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xcs.pyzgame.cn/guide/jwt-room-auth.html</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xcs.pyzgame.cn/guide/project-structure.html</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xcs.pyzgame.cn/ops/deployment.html</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xcs.pyzgame.cn/ops/load-testing.html</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xcs.pyzgame.cn/reference/api.html</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xcs.pyzgame.cn/reference/minigame/douyin.html</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xcs.pyzgame.cn/reference/minigame/weixin.html</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xcs.pyzgame.cn/reference/protocol.html</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xcs.pyzgame.cn/rooms/auth.html</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xcs.pyzgame.cn/rooms/frame-sync-game-room.html</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xcs.pyzgame.cn/rooms/lifecycle.html</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xcs.pyzgame.cn/rooms/matchmaking.html</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xcs.pyzgame.cn/rooms/messages.html</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xcs.pyzgame.cn/rooms/overview.html</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xcs.pyzgame.cn/rooms/state.html</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xcs.pyzgame.cn/scenarios/fighting-game-frame-sync.html</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xcs.pyzgame.cn/scenarios/mini-game-invite-battle.html</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xcs.pyzgame.cn/scenarios/multi-scale-matchmaking.html</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xcs.pyzgame.cn/scenarios/overview.html</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xcs.pyzgame.cn/scenarios/party-dungeon-team-chat.html</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://xcs.pyzgame.cn/scenarios/ranked-matchmaking.html</loc>
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
